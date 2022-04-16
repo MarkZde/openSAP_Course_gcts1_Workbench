@@ -1,13 +1,13 @@
 general:
 steps:
   gctsDeploy:
-  host: "https://tst.opensap.consarea.com:44300"
-  client: "100"
-  abapCredentialsId: "v1yszzoi_abap_credentials"
-  repository: "markzde-opensap_course_gcts1_workbench"
-  remoteRepositoryURL: "https://github.com/MarkZde/openSAP_Course_gcts1_Workbench"
-  role: "SOURCE"
-  vSID: "V1Y"
-  verbose: true
-  type: "GITHUB"
-  rollback: false
+    host: "https://tst.opensap.consarea.com:44300"
+    client: "100"
+    abapCredentialsId: "v1yszzoi_abap_credentials"
+    repository: "markzde-opensap_course_gcts1_workbench"
+    remoteRepositoryURL: "https://github.com/MarkZde/openSAP_Course_gcts1_Workbench"
+    role: "SOURCE"
+    vSID: "V1Y"
+    verbose: true
+    type: "GITHUB"
+    rollback: false
