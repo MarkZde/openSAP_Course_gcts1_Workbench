@@ -3,4 +3,4 @@ REPORT zre_v1y.
 * --> feature comment
 * --> maintenance comment
 * --> local comment
-* --> remote comment
+* --> task comment
